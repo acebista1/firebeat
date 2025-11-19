@@ -1,0 +1,8 @@
+{
+  "name": "JB Trade Link DMS",
+  "description": "FMCG Distribution Management System frontend with role-based access for Admin, Sales, and Delivery.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
